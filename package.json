@@ -1,8 +1,8 @@
 {
   "name": "connect-csvboy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Express/Connect middleware to threat requests with CSV contents",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "node_modules/mocha/bin/mocha tests/*.mocha.js",
     "coveralls": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha --report lcovonly -- tests/*.mocha.js -R spec -t 5000 && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage",
@@ -26,14 +26,14 @@
     "url": "https://github.com/SimpliField/connect-csvboy/issues"
   },
   "devDependencies": {
-    "mocha": "~1.18.0",
-    "supertest": "~0.9.0",
-    "express": "~3.4.8",
+    "mocha": "~1.21.5",
+    "supertest": "~0.14.0",
+    "express": "~4.9.8",
     "mocha-lcov-reporter": "0.0.1",
-    "coveralls": "~2.7.1",
-    "istanbul": "~0.2.4"
+    "coveralls": "~2.11.2",
+    "istanbul": "~0.3.2"
   },
   "dependencies": {
-    "oh-csv": "0.0.3"
+    "oh-csv": "0.0.4"
   }
 }
