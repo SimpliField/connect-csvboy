@@ -3,7 +3,7 @@
  HTTP methods.
 
 
-[![NPM version](https://badge.fury.io/js/connect-csvboy.png)](https://npmjs.org/package/connect-csvboy) [![Build status](https://secure.travis-ci.org/SimpliField/connect-csvboy.png)](https://travis-ci.org/SimpliField/connect-csvboy) [![Dependency Status](https://david-dm.org/SimpliField/connect-csvboy.png)](https://david-dm.org/SimpliField/connect-csvboy) [![devDependency Status](https://david-dm.org/SimpliField/connect-csvboy/dev-status.png)](https://david-dm.org/SimpliField/connect-csvboy#info=devDependencies) [![Coverage Status](https://coveralls.io/repos/SimpliField/connect-csvboy/badge.png?branch=master)](https://coveralls.io/r/SimpliField/connect-csvboy?branch=master) [![Code Climate](https://codeclimate.com/github/SimpliField/connect-csvboy.png)](https://codeclimate.com/github/SimpliField/connect-csvboy)
+[![NPM version](https://badge.fury.io/js/connect-csvboy.svg)](https://npmjs.org/package/connect-csvboy) [![Build status](https://secure.travis-ci.org/SimpliField/connect-csvboy.png)](https://travis-ci.org/SimpliField/connect-csvboy) [![Dependency Status](https://david-dm.org/SimpliField/connect-csvboy.png)](https://david-dm.org/SimpliField/connect-csvboy) [![devDependency Status](https://david-dm.org/SimpliField/connect-csvboy/dev-status.png)](https://david-dm.org/SimpliField/connect-csvboy#info=devDependencies) [![Coverage Status](https://coveralls.io/repos/SimpliField/connect-csvboy/badge.svg?branch=master)](https://coveralls.io/r/SimpliField/connect-csvboy?branch=master) [![Code Climate](https://codeclimate.com/github/SimpliField/connect-csvboy.png)](https://codeclimate.com/github/SimpliField/connect-csvboy)
 
 ## Usage
 ```js
